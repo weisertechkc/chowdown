@@ -3,18 +3,18 @@
   <channel>
     <title>Chowdown</title>
     <description>The plain text recipe database for hackers</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 28 Feb 2019 00:22:45 -0600</pubDate>
-    <lastBuildDate>Thu, 28 Feb 2019 00:22:45 -0600</lastBuildDate>
+    <link>http://0.0.0.0:4000/</link>
+    <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 28 Feb 2019 21:24:33 +0000</pubDate>
+    <lastBuildDate>Thu, 28 Feb 2019 21:24:33 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>Banana Bread</title>
         <description>&lt;p&gt;From Angie’s mom&lt;/p&gt;
 </description>
-        <link>http://localhost:4000/recipes/banana-bread.html</link>
-        <guid isPermaLink="true">http://localhost:4000/recipes/banana-bread.html</guid>
+        <link>http://0.0.0.0:4000/recipes/banana-bread.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/recipes/banana-bread.html</guid>
         
         <category>breakfast,</category>
         
@@ -27,8 +27,8 @@
         <title>Smoked Baked Beans</title>
         <description>&lt;p&gt;From Nathan Weiser&lt;/p&gt;
 </description>
-        <link>http://localhost:4000/recipes/smoked-baked-beans.html</link>
-        <guid isPermaLink="true">http://localhost:4000/recipes/smoked-baked-beans.html</guid>
+        <link>http://0.0.0.0:4000/recipes/smoked-baked-beans.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/recipes/smoked-baked-beans.html</guid>
         
         
       </item>
