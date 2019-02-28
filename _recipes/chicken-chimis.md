@@ -2,7 +2,7 @@
 
 layout: recipe
 title:  "Chicken Chimis"
-image:
+image: chicken-chimi.jpg
 imagecredit:
 tags:
 
