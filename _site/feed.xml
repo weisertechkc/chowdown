@@ -5,8 +5,8 @@
     <description>The plain text recipe database for hackers</description>
     <link>http://0.0.0.0:4000/</link>
     <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 28 Feb 2019 21:24:33 +0000</pubDate>
-    <lastBuildDate>Thu, 28 Feb 2019 21:24:33 +0000</lastBuildDate>
+    <pubDate>Thu, 28 Feb 2019 21:54:36 +0000</pubDate>
+    <lastBuildDate>Thu, 28 Feb 2019 21:54:36 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -19,6 +19,16 @@
         <category>breakfast,</category>
         
         <category>baking</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Chicken Chimis</title>
+        <description>&lt;p&gt;From Nathan Weiser&lt;/p&gt;
+</description>
+        <link>http://0.0.0.0:4000/recipes/chicken-chimis.html</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/recipes/chicken-chimis.html</guid>
         
         
       </item>

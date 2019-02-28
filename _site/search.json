@@ -11,6 +11,15 @@
   
     {
     
+	    "title"    : "Chicken Chimis",
+		"ingredients"    : "8 oz cream cheese, 8 oz pepperjack cheese, 1 1/2 tablespoons taco seasoning, 1 lb shredded chicken, 8 large tortillas, cooking spray, toppings as desired, ",
+		"image"	   : "chicken-chimi.jpg",
+	    "url"      : "/recipes/chicken-chimis.html"
+      
+    } ,
+  
+    {
+    
 	    "title"    : "Smoked Baked Beans",
 		"ingredients"    : "\#10 can of baked beans, 1 large onion, 1 green pepper, 2 large jalapenos, 1/2 pound bacon ends, 1-2 cups brown sugar, 1 tablespoon mustard powder, bbq rub lighly sprinkled across top, kosher salt, freshly cracked pepper, ",
 		"image"	   : "smoked-baked-beans.jpg",
