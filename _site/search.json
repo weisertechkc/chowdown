@@ -25,6 +25,15 @@
 		"image"	   : "smoked-baked-beans.jpg",
 	    "url"      : "/recipes/smoked-baked-beans.html"
       
+    } ,
+  
+    {
+    
+	    "title"    : "Test Recipe",
+		"ingredients"    : "4 bananas, 1/2 cup butter, 1/2 cup sugar, 2 eggs, 2 cups flour, 1/2 tsp baking soda, 1 tsp baking powder, pinch salt, 1/4 cup nuts (we like pecans), ",
+		"image"	   : "banana-bread.jpg",
+	    "url"      : "/recipes/test1.html"
+      
     } 
   
 ]

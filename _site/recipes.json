@@ -14,5 +14,10 @@
     {
         "title": "Smoked Baked Beans",
         "image": "images/large/smoked-baked-beans.jpg"
+    },
+
+    {
+        "title": "Test Recipe",
+        "image": "images/large/banana-bread.jpg"
     }
 ]
