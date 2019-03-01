@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Chowdown</title>
+    <title>JediCafe</title>
     <description>The plain text recipe database for hackers</description>
     <link>http://0.0.0.0:4000/</link>
     <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 28 Feb 2019 22:03:13 +0000</pubDate>
-    <lastBuildDate>Thu, 28 Feb 2019 22:03:13 +0000</lastBuildDate>
+    <pubDate>Fri, 01 Mar 2019 02:27:18 +0000</pubDate>
+    <lastBuildDate>Fri, 01 Mar 2019 02:27:18 +0000</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
