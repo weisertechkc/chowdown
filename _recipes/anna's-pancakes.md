@@ -26,3 +26,4 @@ directions:
 ---
 
 From Anna Weiser
+Makes 9 Pancakes
