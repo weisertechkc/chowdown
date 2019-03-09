@@ -119,24 +119,6 @@
   
     {
     
-	    "title"    : "Roasted Okra",
-		"ingredients"    : "1 bunch of okra, salt, pepper, etc to taste, ",
-		"image"	   : "roasted-okra.jpg",
-	    "url"      : "/recipes/roasted-okra.html"
-      
-    } ,
-  
-    {
-    
-	    "title"    : "Smashed Carrots",
-		"ingredients"    : "1 can carrots, 1 tbsp butter, 2 tbsp parmesan cheese, salt &amp; pepper to taste, ",
-		"image"	   : "smashed-carrots.jpg",
-	    "url"      : "/recipes/smashed-carrots.html"
-      
-    } ,
-  
-    {
-    
 	    "title"    : "Smoked Baked Beans",
 		"ingredients"    : "\#10 can of baked beans, 1 large onion, 1 green pepper, 2 large jalapenos, 1/2 pound bacon ends, 1-2 cups brown sugar, 1 tablespoon mustard powder, bbq rub lighly sprinkled across top, kosher salt, freshly cracked pepper, ",
 		"image"	   : "smoked-baked-beans.jpg",
